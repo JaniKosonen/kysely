@@ -1,0 +1,70 @@
+{
+    "kysymykset" : [{
+        
+        "teksti" : "Missä näistä Pohjoismaista asuu eniten ihmisiä?",
+            
+            "vaihtoehdot" : [{
+
+                "teksti" : "Tanskassa",
+                "oikein" : false
+            },
+            {
+                "teksti" : "Ruotsissa",
+                "oikein" : true
+                },
+                {
+                "teksti" : "Norjassa",
+                "oikein" : false
+                },
+                {
+                "teksti" : "Suomessa",
+                "oikein" : false
+                }
+                ]
+                },
+        {
+        "teksti" : "Mikä on Suomen itsenäisyyspäivä?",
+
+        "vaihtoehdot" : [{
+            
+            "teksti" : "15. maaliskuuta",
+            "oikein" : false
+            },
+            {
+            "teksti" : "11. heinäkuuta",
+            "oikein" : false
+            },
+            {
+            "teksti" :"6. joulukuuta",
+            "oikein" : true
+            },
+            {
+            "teksti" : "9. toukokuuta",
+            "oikein" : false
+            }
+        ]
+        },
+        {
+        "teksti" : "Mikä on ruotsalaisen Göteborgin kaupungin lempinimi?",
+            
+        "vaihtoehdot" : [{
+                
+            "teksti" : "länsirannikon pikku-Pariisi",
+            "oikein" : true
+            },
+            {
+            "teksti" : "kiikarointikukkula Islantiin",
+            "oikein" : false
+            },
+            {
+            "teksti" : "Tukholman toveri",
+            "oikein" : false
+            },
+            {
+            "teksti" : "sähköbussibaana",
+            "oikein" : false
+            }
+        ]
+        }
+    ]
+}
